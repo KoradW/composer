@@ -1,0 +1,11 @@
+{
+    "name": "2142615/php-login-form-main",
+    "autoload": {
+        "psr-4": {
+            "2142615\\PhpLoginFormMain\\": "src/"
+        }
+    },
+    "require": {
+        "steampixel/simple-php-router": "^0.7.1"
+    }
+}
